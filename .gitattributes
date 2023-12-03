@@ -1,5 +1,4 @@
-# Auto detect text files and perform LF normalization
-venv
+venv/
 db.sqlite3
-media
-* text=auto
+media/
+
